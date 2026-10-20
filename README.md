@@ -86,5 +86,5 @@ Linux). Binaries come from the public
 
 ## Documentation
 
-- [ComputeSphere CLI docs](https://docs.computesphere.com/docs/cli/getting-started)
+- [ComputeSphere CLI docs](https://computesphere.com/docs/cli/getting-started)
 - [ComputeSphere](https://computesphere.com)
